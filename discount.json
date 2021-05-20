@@ -1,3 +1,15 @@
 [
-{ruleid: '1', ruletype: '1', name:'aaaaaa', combinationtype:'1', combination:'0', amount:'0', discounttype:'1', discount:'68', rulerepeattime:'1', stackable:'1', starttimestamp: '1620432000', endtimestamp: '1622419200', priority: '1' }
+{"ruleid": '1', 
+ "ruletype": '1', 
+ "name":'aaaaaa', 
+ "combinationtype":'1', 
+ "combination":'0', 
+ "amount":'0', 
+ "discounttype":'1', 
+ "discount":'68', 
+ "rulerepeattime":'1', 
+ "stackable":'1', 
+ "starttimestamp": '1620432000', 
+ "endtimestamp": '1622419200', 
+ "priority": '1' }
 ]
