@@ -199,5 +199,20 @@
         "start_timestamp": 1620432000, 
         "end_timestamp": 1622419200,   
         "priority": 1
+    },
+     {  "ruleid": 14,
+        "rule_type":3,
+        "name":"額滿300送火腿", 
+        "combination_type":3,
+        "combination":[{"id":0}],
+        "amount":300,
+        "discount_type": 5,
+        "discount": 0,
+        "discount_product":[{"id":"5AAF5E3622E4646E1F133AAE4215AF66", "price":0}],
+        "rule_repeat_time": 0,
+        "stackable":0,
+        "start_timestamp": 1620432000, 
+        "end_timestamp": 1622419200,   
+        "priority": 2
     }
 ]
