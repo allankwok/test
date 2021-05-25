@@ -198,9 +198,9 @@
         "stackable":0,
         "start_timestamp": 1620432000, 
         "end_timestamp": 1622419200,   
-        "priority": 1
+        "priority": 2
     },
-     {  "ruleid": 14,
+    {   "ruleid": 14,
         "rule_type":3,
         "name":"額滿300送火腿", 
         "combination_type":3,
@@ -213,6 +213,6 @@
         "stackable":0,
         "start_timestamp": 1620432000, 
         "end_timestamp": 1622419200,   
-        "priority": 2
+        "priority": 1
     }
 ]
